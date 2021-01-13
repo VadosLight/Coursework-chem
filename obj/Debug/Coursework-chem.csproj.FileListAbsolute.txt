@@ -1,0 +1,10 @@
+C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\bin\Debug\Coursework-chem.exe.config
+C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\bin\Debug\Coursework-chem.exe
+C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\bin\Debug\Coursework-chem.pdb
+C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\obj\Debug\Coursework-chem.csprojAssemblyReference.cache
+C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\obj\Debug\Coursework_chem.Form1.resources
+C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\obj\Debug\Coursework_chem.Properties.Resources.resources
+C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\obj\Debug\Coursework-chem.csproj.GenerateResource.cache
+C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\obj\Debug\Coursework-chem.csproj.CoreCompileInputs.cache
+C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\obj\Debug\Coursework-chem.exe
+C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\obj\Debug\Coursework-chem.pdb
