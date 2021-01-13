@@ -8,3 +8,7 @@ C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\obj\Debug\Coursework
 C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\obj\Debug\Coursework-chem.csproj.CoreCompileInputs.cache
 C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\obj\Debug\Coursework-chem.exe
 C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\obj\Debug\Coursework-chem.pdb
+C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\bin\Debug\Coursework-chem.exe.manifest
+C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\bin\Debug\Coursework-chem.application
+C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\obj\Debug\Coursework-chem.exe.manifest
+C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\obj\Debug\Coursework-chem.application
