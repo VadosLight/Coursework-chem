@@ -91,6 +91,7 @@ namespace Coursework_chem
             B2 *= 0.001;
         }
 
+
         //============================================= Первичные расчеты
 
         //массовая доля в растворе
@@ -153,9 +154,9 @@ namespace Coursework_chem
 
             for (var t = temperature0.Value; t < temperatureN.Value; t++)
             {
-                var d = Math.Round(calcDensity((double)t), 4);
-                var v = Math.Round(calcViscosity((double)t), 4);
-                var tc = Math.Round(calcThermalConductivity((double)t), 4);
+                var d = Math.Round(calcDensity((double)t), 2);
+                var v = Math.Round(calcViscosity((double)t), 2);
+                var tc = Math.Round(calcThermalConductivity((double)t), 2);
 
                 chart_density.Series[0].Points.AddXY((double)t, d);
                 chart_viscosity.Series[0].Points.AddXY((double)t, v);

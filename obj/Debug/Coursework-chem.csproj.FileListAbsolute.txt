@@ -14,3 +14,7 @@ C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\obj\Debug\Coursework
 C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\obj\Debug\Coursework-chem.application
 C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\bin\Debug\data\DensityH2O.csv
 C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\bin\Debug\data\Salt.csv
+C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\bin\Debug\img\1.JPG
+C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\bin\Debug\img\2.JPG
+C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\bin\Debug\img\3.JPG
+C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\bin\Debug\img\4.jpg
