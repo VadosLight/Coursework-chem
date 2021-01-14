@@ -104,8 +104,9 @@ namespace Coursework_chem
         //массовая концентрация
         private double calcMassConcentration()
         {
-            var massConcentration = (massSalt.Value / massH2O.Value);
-            tbMassConcentration.Text = (Math.Round(massConcentration, 8)).ToString();
+            var massConcentration = Math.Round((massSalt.Value / massH2O.Value), 6);
+            tbMassConcentration.Text = massConcentration.ToString();
+            tbPercentConcentration.Text = ((double)massConcentration * 100).ToString();
             return (double)massConcentration;
         }
 

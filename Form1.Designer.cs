@@ -29,16 +29,16 @@ namespace Coursework_chem
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea7 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend7 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series7 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Title title3 = new System.Windows.Forms.DataVisualization.Charting.Title();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea8 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend8 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series8 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea9 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend9 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series9 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Title title1 = new System.Windows.Forms.DataVisualization.Charting.Title();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea3 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend3 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series3 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
@@ -405,31 +405,31 @@ namespace Coursework_chem
             // 
             // chart_density
             // 
-            chartArea7.AlignmentOrientation = System.Windows.Forms.DataVisualization.Charting.AreaAlignmentOrientations.Horizontal;
-            chartArea7.AxisX.Title = "Температура *С";
-            chartArea7.AxisY.IntervalAutoMode = System.Windows.Forms.DataVisualization.Charting.IntervalAutoMode.VariableCount;
-            chartArea7.AxisY.Minimum = 900D;
-            chartArea7.AxisY.Title = "Плотность (кг/м^3)";
-            chartArea7.Name = "ChartArea1";
-            this.chart_density.ChartAreas.Add(chartArea7);
+            chartArea1.AlignmentOrientation = System.Windows.Forms.DataVisualization.Charting.AreaAlignmentOrientations.Horizontal;
+            chartArea1.AxisX.Title = "Температура *С";
+            chartArea1.AxisY.IntervalAutoMode = System.Windows.Forms.DataVisualization.Charting.IntervalAutoMode.VariableCount;
+            chartArea1.AxisY.Minimum = 900D;
+            chartArea1.AxisY.Title = "Плотность (кг/м^3)";
+            chartArea1.Name = "ChartArea1";
+            this.chart_density.ChartAreas.Add(chartArea1);
             this.chart_density.Dock = System.Windows.Forms.DockStyle.Fill;
-            legend7.Name = "Legend1";
-            this.chart_density.Legends.Add(legend7);
+            legend1.Name = "Legend1";
+            this.chart_density.Legends.Add(legend1);
             this.chart_density.Location = new System.Drawing.Point(3, 3);
             this.chart_density.Name = "chart_density";
-            series7.BorderWidth = 3;
-            series7.ChartArea = "ChartArea1";
-            series7.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
-            series7.Legend = "Legend1";
-            series7.MarkerBorderWidth = 5;
-            series7.Name = "Плотность";
-            series7.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
-            series7.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
-            this.chart_density.Series.Add(series7);
+            series1.BorderWidth = 3;
+            series1.ChartArea = "ChartArea1";
+            series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
+            series1.Legend = "Legend1";
+            series1.MarkerBorderWidth = 5;
+            series1.Name = "Плотность";
+            series1.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
+            series1.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
+            this.chart_density.Series.Add(series1);
             this.chart_density.Size = new System.Drawing.Size(951, 405);
             this.chart_density.TabIndex = 0;
-            title3.Name = "Title1";
-            this.chart_density.Titles.Add(title3);
+            title1.Name = "Title1";
+            this.chart_density.Titles.Add(title1);
             // 
             // tabPage3
             // 
@@ -444,24 +444,24 @@ namespace Coursework_chem
             // 
             // chart_viscosity
             // 
-            chartArea8.AxisX.Title = "Температура *С";
-            chartArea8.AxisY.IntervalAutoMode = System.Windows.Forms.DataVisualization.Charting.IntervalAutoMode.VariableCount;
-            chartArea8.AxisY.Title = "Вязкость раствора (Па*с)";
-            chartArea8.Name = "ChartArea1";
-            this.chart_viscosity.ChartAreas.Add(chartArea8);
+            chartArea2.AxisX.Title = "Температура *С";
+            chartArea2.AxisY.IntervalAutoMode = System.Windows.Forms.DataVisualization.Charting.IntervalAutoMode.VariableCount;
+            chartArea2.AxisY.Title = "Вязкость раствора (Па*с)";
+            chartArea2.Name = "ChartArea1";
+            this.chart_viscosity.ChartAreas.Add(chartArea2);
             this.chart_viscosity.Dock = System.Windows.Forms.DockStyle.Fill;
-            legend8.Name = "Legend1";
-            this.chart_viscosity.Legends.Add(legend8);
+            legend2.Name = "Legend1";
+            this.chart_viscosity.Legends.Add(legend2);
             this.chart_viscosity.Location = new System.Drawing.Point(3, 3);
             this.chart_viscosity.Name = "chart_viscosity";
-            series8.BorderWidth = 3;
-            series8.ChartArea = "ChartArea1";
-            series8.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
-            series8.Legend = "Legend1";
-            series8.Name = "Вязкость";
-            series8.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
-            series8.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
-            this.chart_viscosity.Series.Add(series8);
+            series2.BorderWidth = 3;
+            series2.ChartArea = "ChartArea1";
+            series2.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
+            series2.Legend = "Legend1";
+            series2.Name = "Вязкость";
+            series2.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
+            series2.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
+            this.chart_viscosity.Series.Add(series2);
             this.chart_viscosity.Size = new System.Drawing.Size(951, 405);
             this.chart_viscosity.TabIndex = 1;
             // 
@@ -473,30 +473,30 @@ namespace Coursework_chem
             this.tabPage4.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage4.Size = new System.Drawing.Size(957, 411);
             this.tabPage4.TabIndex = 3;
-            this.tabPage4.Text = "Теплопроводность";
+            this.tabPage4.Text = "Теплоемкость";
             this.tabPage4.UseVisualStyleBackColor = true;
             // 
             // chart_thermal_conductivity
             // 
-            chartArea9.AxisX.Title = "Температура *С";
-            chartArea9.AxisY.IntervalAutoMode = System.Windows.Forms.DataVisualization.Charting.IntervalAutoMode.VariableCount;
-            chartArea9.AxisY.Minimum = 100D;
-            chartArea9.AxisY.Title = "Теплоемкость Дж/кг*К";
-            chartArea9.Name = "ChartArea1";
-            this.chart_thermal_conductivity.ChartAreas.Add(chartArea9);
+            chartArea3.AxisX.Title = "Температура *С";
+            chartArea3.AxisY.IntervalAutoMode = System.Windows.Forms.DataVisualization.Charting.IntervalAutoMode.VariableCount;
+            chartArea3.AxisY.Minimum = 100D;
+            chartArea3.AxisY.Title = "Теплоемкость Дж/кг*К";
+            chartArea3.Name = "ChartArea1";
+            this.chart_thermal_conductivity.ChartAreas.Add(chartArea3);
             this.chart_thermal_conductivity.Dock = System.Windows.Forms.DockStyle.Fill;
-            legend9.Name = "Legend1";
-            this.chart_thermal_conductivity.Legends.Add(legend9);
+            legend3.Name = "Legend1";
+            this.chart_thermal_conductivity.Legends.Add(legend3);
             this.chart_thermal_conductivity.Location = new System.Drawing.Point(3, 3);
             this.chart_thermal_conductivity.Name = "chart_thermal_conductivity";
-            series9.BorderWidth = 3;
-            series9.ChartArea = "ChartArea1";
-            series9.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
-            series9.Legend = "Legend1";
-            series9.Name = "Теплоповодность";
-            series9.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
-            series9.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
-            this.chart_thermal_conductivity.Series.Add(series9);
+            series3.BorderWidth = 3;
+            series3.ChartArea = "ChartArea1";
+            series3.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Spline;
+            series3.Legend = "Legend1";
+            series3.Name = "Теплоповодность";
+            series3.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
+            series3.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
+            this.chart_thermal_conductivity.Series.Add(series3);
             this.chart_thermal_conductivity.Size = new System.Drawing.Size(951, 405);
             this.chart_thermal_conductivity.TabIndex = 1;
             // 
@@ -583,7 +583,7 @@ namespace Coursework_chem
             this.Column1.HeaderText = "Температура (*С)";
             this.Column1.Name = "Column1";
             this.Column1.ReadOnly = true;
-            this.Column1.Width = 134;
+            this.Column1.Width = 122;
             // 
             // Column2
             // 
@@ -592,7 +592,7 @@ namespace Coursework_chem
             this.Column2.HeaderText = "Плотность (Кг/м^3)";
             this.Column2.Name = "Column2";
             this.Column2.ReadOnly = true;
-            this.Column2.Width = 141;
+            this.Column2.Width = 132;
             // 
             // Column3
             // 
@@ -601,7 +601,7 @@ namespace Coursework_chem
             this.Column3.HeaderText = "Вязкость (Па*с)";
             this.Column3.Name = "Column3";
             this.Column3.ReadOnly = true;
-            this.Column3.Width = 123;
+            this.Column3.Width = 114;
             // 
             // Column4
             // 
@@ -610,7 +610,7 @@ namespace Coursework_chem
             this.Column4.HeaderText = "Теплопроводность (Дж/(кг*К)";
             this.Column4.Name = "Column4";
             this.Column4.ReadOnly = true;
-            this.Column4.Width = 202;
+            this.Column4.Width = 185;
             // 
             // Form1
             // 
