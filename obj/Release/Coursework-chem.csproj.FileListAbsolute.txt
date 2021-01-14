@@ -12,3 +12,9 @@ C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\bin\Release\Coursewo
 C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\bin\Release\Coursework-chem.application
 C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\obj\Release\Coursework-chem.exe.manifest
 C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\obj\Release\Coursework-chem.application
+C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\bin\Release\img\1.JPG
+C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\bin\Release\img\2.JPG
+C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\bin\Release\img\3.JPG
+C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\bin\Release\img\4.jpg
+C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\bin\Release\data\DensityH2O.csv
+C:\Users\it-va\source\repos\Coursework-chem\Coursework-chem\bin\Release\data\Salt.csv
